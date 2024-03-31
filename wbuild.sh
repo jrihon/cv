@@ -2,4 +2,4 @@
 
 
 
-typst watch ./cv.typ ./output/CV_jrihon_general.pdf --font-path ./src/fonts/
+typst watch ./cv.typ ./output/RihonJerome_CurVitae_2024.pdf --font-path ./src/fonts/
