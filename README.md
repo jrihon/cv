@@ -1,7 +1,7 @@
 # Curriculum Vitae
 
 ### Let's get in touch !
-Download my cv here : [RihonJerome\_CurVitae\_2024.pdf](https://github.com/jrihon/cv/blob/main/output/RihonJerome_CurVitae_2024.pdf)
+Download my cv here : [RihonJerome\_CurVitae.pdf](https://github.com/jrihon/cv/blob/main/output/RihonJerome_CurVitae.pdf)
 
 - GitHub Mobile does not allow downloading files. Open the current URL on a computer or in a browser if you wish to properly access my CV.
 
